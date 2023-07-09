@@ -2,6 +2,7 @@
 [WP EasyCart Data Migration Tool](https://d2d-soft.com/42-wpeasycart-migration) is a solution for migrating data to WP EasyCart from another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AmeriCommerce to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/784-7261-americommerce-to-wp-easycart-migration-tool.html#/72-entities-1000)
 - [BigCommerce to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/686-6407-bigcommerce-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [CS-Cart to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/687-6418-cs-cart-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [CubeCart to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/688-6429-cubecart-to-wpeasycart-migration-tool.html#/72-entities-1000)
@@ -17,6 +18,7 @@
 - [osCommerce to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/698-6528-oscommerce-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/699-6539-oxid-eshop-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [PrestaShop to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/700-6550-prestashop-to-wpeasycart-migration-tool.html#/72-entities-1000)
+- [Salesforce to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/732-6880-salesforce-to-wp-easycart-migration-tool.html#/72-entities-1000)
 - [Shopify to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/701-6561-shopify-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [VirtueMart to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/702-6572-virtuemart-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [Volusion to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/703-6583-volusion-to-wpeasycart-migration-tool.html#/72-entities-1000)
@@ -28,6 +30,7 @@
 - [ZenCart to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/709-6649-zencart-to-wpeasycart-migration-tool.html#/72-entities-1000)
 
 ## Supported Platforms
+- [AmeriCommerce](https://www.americommerce.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
@@ -43,6 +46,7 @@
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
+- [Salesforce](https://www.salesforce.com/)
 - [Shopify](https://www.shopify.com/)
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
@@ -51,7 +55,7 @@
 - [WP eCommerce](https://wpecommerce.org/)
 - [X-Cart](https://www.x-cart.com/)
 - [xt:Commerce](https://www.xt-commerce.com/)
-- [WP EasyCart](https://www.zen-cart.com/)
+- [Zen Cart](https://www.zen-cart.com/)
 
 ## Installation
 The tool is standalone software. You only upload the tool to your server. You don't need setup anything. After uploading the tool to the server, you only need access to the tool by the browser and run migration. The tool can work in both: the local environment and the online environment.
