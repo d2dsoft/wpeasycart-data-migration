@@ -12,6 +12,7 @@
 - [J2Store to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/691-6451-j2store-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [JigoShop to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/692-6462-jigoshop-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [JoomShopping to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/693-6473-joomshopping-to-wpeasycart-migration-tool.html#/72-entities-1000)
+- [LiteCart to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/892-8375-litecart-to-wp-easycart-migration-tool.html#/72-entities-1000)
 - [Loaded Commerce to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/694-6484-loaded-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [Magento to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/695-6495-magento-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [MarketPress to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/696-6506-marketpress-to-wpeasycart-migration-tool.html#/72-entities-1000)
@@ -42,6 +43,7 @@
 - [J2Store](https://www.j2store.org/)
 - JigoShop
 - [JoomShopping](https://extensions.joomla.org/extension/joomshopping/)
+- [LiteCart](https://www.litecart.net/)
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - MarketPress
