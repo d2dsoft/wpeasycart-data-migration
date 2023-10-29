@@ -3,6 +3,7 @@
 
 ## Products
 - [AmeriCommerce to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/784-7261-americommerce-to-wp-easycart-migration-tool.html#/72-entities-1000)
+- [Bagisto to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/951-8970-bagisto-to-wp-easycart-migration-tool.html#/72-entities-1000)
 - [BigCommerce to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/686-6407-bigcommerce-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [CS-Cart to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/687-6418-cs-cart-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [CubeCart to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/688-6429-cubecart-to-wpeasycart-migration-tool.html#/72-entities-1000)
@@ -34,6 +35,7 @@
 
 ## Supported Platforms
 - [AmeriCommerce](https://www.americommerce.com/)
+- [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
