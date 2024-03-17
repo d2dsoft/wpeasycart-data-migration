@@ -2,6 +2,7 @@
 [WP EasyCart Data Migration Tool](https://d2d-soft.com/42-wpeasycart-migration) is a solution for migrating data to WP EasyCart from another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AbanteCart to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/1139-10877-abantecart-to-wp-easycart-migration-tool.html#/72-entities-1000)
 - [AmeriCommerce to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/784-7261-americommerce-to-wp-easycart-migration-tool.html#/72-entities-1000)
 - [Bagisto to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/951-8970-bagisto-to-wp-easycart-migration-tool.html#/72-entities-1000)
 - [BigCommerce to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/686-6407-bigcommerce-to-wpeasycart-migration-tool.html#/72-entities-1000)
@@ -36,6 +37,7 @@
 - [ZenCart to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/709-6649-zencart-to-wpeasycart-migration-tool.html#/72-entities-1000)
 
 ## Supported Platforms
+- [AbanteCart](https://www.abantecart.com/)
 - [AmeriCommerce](https://www.americommerce.com/)
 - [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
