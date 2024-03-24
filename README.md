@@ -20,6 +20,7 @@
 - [Magento to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/695-6495-magento-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [MarketPress to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/696-6506-marketpress-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [OpenCart to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/697-6517-opencart-to-wpeasycart-migration-tool.html#/72-entities-1000)
+- [osCMax to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/1206-11560-oscmax-to-wp-easycart-migration-tool.html#/72-entities-1000)
 - [osCommerce to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/698-6528-oscommerce-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/699-6539-oxid-eshop-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [PrestaShop to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/700-6550-prestashop-to-wpeasycart-migration-tool.html#/72-entities-1000)
@@ -55,6 +56,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
