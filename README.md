@@ -29,6 +29,7 @@
 - [ShopSite to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/865-8089-shopsite-to-wp-easycart-migration-tool.html#/72-entities-1000)
 - [Shopware to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/1074-10216-shopware-to-wp-easycart-migration-tool.html#/72-entities-1000)
 - [TomatoCart to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/1238-11901-tomatocart-to-wp-easycart-migration-tool.html#/72-entities-1000)
+- [UberCart to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/1270-12242-ubercart-to-wp-easycart-migration-tool.html#/72-entities-1000)
 - [VirtueMart to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/702-6572-virtuemart-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [Volusion to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/703-6583-volusion-to-wpeasycart-migration-tool.html#/72-entities-1000)
 - [WooCommerce to WP EasyCart Migration](https://d2d-soft.com/wpeasycart-migration/704-6594-woocommerce-to-wpeasycart-migration-tool.html#/72-entities-1000)
@@ -66,6 +67,7 @@
 - [ShopSite](https://www.shopsite.com/)
 - [Shopware](https://www.shopware.com/)
 - TomatoCart
+- UberCart
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
 - [WooCommerce](https://woocommerce.com/)
